@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "bitcoind-rpc": "^0.8.0",
     "bitcoind-rpc-bltg-chainos": "^1.0.1",
     "bitcore-lib": "^8.3.3",
